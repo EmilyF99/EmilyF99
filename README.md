@@ -17,6 +17,27 @@
     
 ## 🎉 Project Hub
 
+<a href="https://github.com/WRDDissertationProject"><img align="left" src="" width="21px"/></a>
+[Wills Roller Disco (Dissertation)](https://github.com/WRDDissertationProject)
+
+<a href="https://github.com/emilyf99UniversityProjects"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/PYG9GWrf_400x400.png" width="32px"/></a>
+[University Projects](https://github.com/emilyf99UniversityProjects)
+
+<a href="https://github.com/emilyf99AccentureInternship"><img align="left" src="" width="21px"/></a>
+[Accenture Internship](https://github.com/emilyf99AccentureInternship)
+
+<a href="https://github.com/emilyf99SmallProjects"><img align="left" src=""  width="21px"/></a>
+[Small Projects](https://github.com/emilyf99SmallProjects)
+
+<a href="https://github.com/emilyf99FreeCodeCampProjects"><img align="left" src=""  width="21px"/></a>
+[FreeCodeCamp Projects](https://github.com/emilyf99FreeCodeCampProjects)
+
+<a href="https://github.com/emilyf99BookQuestions"><img align="left" src=""  width="21px"/></a>
+[Book Answers](https://github.com/emilyf99BookQuestions)
+
+<a href="https://github.com/emilyf99ComputerBuildsAndRepairs"><img align="left" src=""  width="21px"/></a>
+[Computer Repair](https://github.com/emilyf99ComputerBuildsAndRepairs)
+
 ## 💼Technical Skills
 
   ### Databases
@@ -46,26 +67,14 @@
 
 ## :speech_balloon: Get in Touch
 
-<a href="https://www.linkedin.com/in/emily-fletcher-uon/"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/LinkedIn_logo_initials.png" alt="EmilyF99 | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/emily-fletcher-uon/"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/LinkedIn_logo_initials.png" alt="EmilyF99 | LinkedIn" width="32px"/></a>
 [LinkedIn](https://www.linkedin.com/in/emily-fletcher-uon/)
 
-Website Link
+<a href="https://emilyf99.github.io/"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/high+quality+social+social+media+square+website+www+icon-1320192619856305568.png" alt="EmilyF99 | Website" width="32px"/></a>
+[Website (Old)](https://emilyf99.github.io/)
+
   
 ##  📈 GitHub Statistics 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmilyF99&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyF99&layout=compact&theme=dark&background=000000)](https://github.com/EmilyF99)
-  <!--
-**EmilyF99/EmilyF99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
