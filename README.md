@@ -77,4 +77,4 @@
 ##  📈 GitHub Statistics 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmilyF99&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyF99&layout=compact&theme=dark&background=000000)](https://github.com/EmilyF99)
+<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyF99&layout=compact&theme=dark&background=000000)](https://github.com/EmilyF99)-->
