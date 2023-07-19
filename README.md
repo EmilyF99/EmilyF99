@@ -29,7 +29,7 @@
 <a href="https://github.com/emilyf99SmallProjects"><img align="left" src=""  width="21px"/></a>
 [Small Projects](https://github.com/emilyf99SmallProjects)
 
-<a href="https://github.com/emilyf99FreeCodeCampProjects"><img align="left" src=""  width="21px"/></a>
+<a href="https://github.com/emilyf99FreeCodeCampProjects"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/download (1).png"  width="32px"/></a>
 [FreeCodeCamp Projects](https://github.com/emilyf99FreeCodeCampProjects)
 
 <a href="https://github.com/emilyf99BookQuestions"><img align="left" src=""  width="21px"/></a>
