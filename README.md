@@ -3,7 +3,7 @@
   My name is Emily (She/Her). 
   I've just graduated from the University of Northampton and I'm currently looking for new opportunities. 
   
-  The language I have the most experience with is Java, however I am looking to move to more C++ projects in the future.
+  The language I have the most experience with is Java, however, I am looking to move to more C++ projects in the future.
 
 ## 💻 Currently Working On
   - Updating my GitHub with all my University Projects
@@ -26,7 +26,7 @@
 <a href="https://github.com/emilyf99AccentureInternship"><img align="left" src="" width="21px"/></a>
 [Accenture Internship](https://github.com/emilyf99AccentureInternship)
 
-<a href="https://github.com/emilyf99SmallProjects"><img align="left" src=""  width="21px"/></a>
+<a href="https://github.com/emilyf99SmallProjects"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/17959096101580282642-512.png"  width="32px"/></a>
 [Small Projects](https://github.com/emilyf99SmallProjects)
 
 <a href="https://github.com/emilyf99FreeCodeCampProjects"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/download (1).png"  width="32px"/></a>
