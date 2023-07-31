@@ -35,7 +35,7 @@
 <a href="https://github.com/emilyf99BookQuestions"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/images.png"  width="32px"/></a>
 [Book Answers](https://github.com/emilyf99BookQuestions)
 
-<a href="https://github.com/emilyf99ComputerBuildsAndRepairs"><img align="left" src=""  width="21px"/></a>
+<a href="https://github.com/emilyf99ComputerBuildsAndRepairs"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/desktop-computer_1f5a5-fe0f.png"  width="32px"/></a>
 [Computer Repair](https://github.com/emilyf99ComputerBuildsAndRepairs)
 
 ## 💼Technical Skills
