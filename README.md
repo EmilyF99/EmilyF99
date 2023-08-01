@@ -1,4 +1,5 @@
-### Banner Placeholder
+![Black   Yellow Digital Marketing Facebook Cover](https://github.com/EmilyF99/EmilyF99/assets/72047699/1d86b7c1-0ead-44b5-a250-cf4e48f26c65)
+
 # 👋 Hi there, Welcome to my GitHub
   My name is Emily (She/Her). 
   I've just graduated from the University of Northampton and I'm currently looking for new opportunities. 
