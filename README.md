@@ -24,8 +24,8 @@
 <a href="https://github.com/emilyf99UniversityProjects"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/PYG9GWrf_400x400.png" width="32px"/></a>
 [University Projects](https://github.com/emilyf99UniversityProjects)
 
-<a href="https://github.com/emilyf99AccentureInternship"><img align="left" src="" width="21px"/></a>
-[Accenture Internship](https://github.com/emilyf99AccentureInternship)
+<a href="https://github.com/EmilyF99/Accenture-TAG-Internship-2022"><img align="left" src="https://github.com/EmilyF99/EmilyF99/blob/main/images/6128893.png?raw=true" width="32px"/></a>
+[Accenture Internship](https://github.com/EmilyF99/Accenture-TAG-Internship-2022)
 
 <a href="https://github.com/emilyf99SmallProjects"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/17959096101580282642-512.png"  width="32px"/></a>
 [Small Projects](https://github.com/emilyf99SmallProjects)
