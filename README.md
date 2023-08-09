@@ -18,7 +18,7 @@
     
 ## 🎉 Project Hub
 
-<a href="https://github.com/WRDDissertationProject"><img align="left" src="" width="21px"/></a>
+<a href="https://github.com/WRDDissertationProject"><img align="left" src="https://github.com/EmilyF99/EmilyF99/blob/main/images/WRD%20Logo.png?raw=true" width="32px"/></a>
 [Wills Roller Disco (Dissertation)](https://github.com/WRDDissertationProject)
 
 <a href="https://github.com/emilyf99UniversityProjects"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/PYG9GWrf_400x400.png" width="32px"/></a>
