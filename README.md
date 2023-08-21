@@ -7,7 +7,7 @@
   The language I have the most experience with is Java, however, I am looking to move to more C++ projects in the future.
 
 ## 💻 Currently Working On
-  - Updating my GitHub with all my University Projects
+  - Java Book Tracker
   - New Portoflio Website
   - Scout Group Archive 
 
