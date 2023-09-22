@@ -3,20 +3,26 @@
 # 👋 Hi there, Welcome to my GitHub
   My name is Emily (She/Her). 
   I've just graduated from the University of Northampton and I'm currently looking for new opportunities. 
-  
-  The language I have the most experience with is Java, however, I am looking to move to more C++ projects in the future.
 
+  The languages I code in most are C++ and Java.
+
+  One of my future aims is to build a Games Programming portfolio.
+  
 ## 💻 Currently Working On
+  - C++ Game Portfolio
   - Java Book Tracker
   - New Portoflio Website
-  - Scout Group Archive 
 
 ## 🌱 Currently Learning
-  - TailWind CSS
   - C++
   - Games Programming Theory
+  - Graduate Employability Skills
     
 ## 🎉 Project Hub
+
+<a href="" width="32px"/></a>
+[Games Programming Portfolio](https://github.com/)
+
 
 <a href="https://github.com/WRDDissertationProject"><img align="left" src="https://github.com/EmilyF99/EmilyF99/blob/main/images/WRD%20Logo.png?raw=true" width="32px"/></a>
 [Wills Roller Disco (Dissertation)](https://github.com/WRDDissertationProject)
@@ -65,7 +71,6 @@
   ### Version Control
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
-
 ## :speech_balloon: Get in Touch
 
 <a href="https://www.linkedin.com/in/emily-fletcher-uon/"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/LinkedIn_logo_initials.png" alt="EmilyF99 | LinkedIn" width="32px"/></a>
@@ -73,9 +78,3 @@
 
 <a href="https://emilyf99.github.io/"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/high+quality+social+social+media+square+website+www+icon-1320192619856305568.png" alt="EmilyF99 | Website" width="32px"/></a>
 [Website (Old)](https://emilyf99.github.io/)
-
-  
-##  📈 GitHub Statistics 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmilyF99&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilyF99&layout=compact&theme=dark&background=000000)](https://github.com/EmilyF99)-->
