@@ -20,9 +20,8 @@
     
 ## 🎉 Project Hub
 
-<a href="" width="32px"/></a>
-[Games Programming Portfolio](https://github.com/)
-
+<a href="https://github.com/GamesProgrammingPortfolio"><img align="left" src="https://github.com/EmilyF99/EmilyF99/blob/main/images/spaceInvader.png?raw=true" width="32px"/></a>
+[Games Programming Portfolio](https://github.com/GamesProgrammingPortfolio)
 
 <a href="https://github.com/WRDDissertationProject"><img align="left" src="https://github.com/EmilyF99/EmilyF99/blob/main/images/WRD%20Logo.png?raw=true" width="32px"/></a>
 [Wills Roller Disco (Dissertation)](https://github.com/WRDDissertationProject)
