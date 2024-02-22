@@ -1,16 +1,13 @@
-![Black   Yellow Digital Marketing Facebook Cover](https://github.com/EmilyF99/EmilyF99/assets/72047699/1d86b7c1-0ead-44b5-a250-cf4e48f26c65)
+![Black   Yellow Digital Marketing Facebook Cover (1)](https://github.com/EmilyF99/EmilyF99/assets/72047699/0579a785-8573-4424-aa7f-0dae64269120)
 
 # 👋 Hi there, Welcome to my GitHub
   My name is Emily (She/Her). 
   I've just graduated from the University of Northampton and I'm currently looking for new opportunities. 
 
   The languages I code in most are C++ and Java.
-
-  One of my future aims is to build a Games Programming portfolio.
   
 ## 💻 Currently Working On
   - C++ Game Portfolio
-  - Java Book Tracker
   - New Portoflio Website
 
 ## 🌱 Currently Learning
@@ -72,8 +69,8 @@
   
 ## :speech_balloon: Get in Touch
 
-<a href="https://www.linkedin.com/in/emily-fletcher-uon/"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/LinkedIn_logo_initials.png" alt="EmilyF99 | LinkedIn" width="32px"/></a>
-[LinkedIn](https://www.linkedin.com/in/emily-fletcher-uon/)
+<a href="https://www.linkedin.com/in/emily-fletcher-programming/"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/LinkedIn_logo_initials.png" alt="EmilyF99 | LinkedIn" width="32px"/></a>
+[LinkedIn](https://www.linkedin.com/in/emily-fletcher-programming/)
 
 <a href="https://emilyf99.github.io/"><img align="left" src="https://raw.githubusercontent.com/EmilyF99/EmilyF99/main/images/high+quality+social+social+media+square+website+www+icon-1320192619856305568.png" alt="EmilyF99 | Website" width="32px"/></a>
 [Website (Old)](https://emilyf99.github.io/)
