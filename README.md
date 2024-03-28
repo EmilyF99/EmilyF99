@@ -1,5 +1,6 @@
 ![Black   Yellow Digital Marketing Facebook Cover (1)](https://github.com/EmilyF99/EmilyF99/assets/72047699/0579a785-8573-4424-aa7f-0dae64269120)
 
+PLEASE NOTE: If you are looking for a project and can't find it then please reach out. Some of my projects have clauses where they cannot be shared. Many thanks. 
 # 👋 Hi there, Welcome to my GitHub
   My name is Emily (She/Her). 
   I've just graduated from the University of Northampton and I'm currently looking for new opportunities. 
