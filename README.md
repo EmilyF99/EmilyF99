@@ -1,6 +1,6 @@
 
+![GitHubCover](https://github.com/user-attachments/assets/17bd0801-ca37-4e27-b2db-dd11f4d8e07b)
 
-![Copy of Black   Yellow Digital Marketing Facebook Cover (2)](https://github.com/EmilyF99/EmilyF99/assets/72047699/fd202fcd-d3f2-4d2f-b1bf-69019d3359b2)
 
 PLEASE NOTE: If you are looking for a project and can't find it then please reach out. Some of my projects have clauses where they cannot be shared. Many thanks. 
 # 👋 Hi there, Welcome to my GitHub
