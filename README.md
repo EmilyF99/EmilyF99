@@ -5,18 +5,19 @@
 PLEASE NOTE: If you are looking for a project and can't find it then please reach out. Some of my projects have clauses where they cannot be shared. Many thanks. 
 # 👋 Hi there, Welcome to my GitHub
   My name is Emily (She/Her). 
-  I've just graduated from the University of Northampton and I'm currently looking for new opportunities. 
+  I am currently employed at Accenture, as well as being an MA Indie Game Development Student at the University of Falmouth
 
   The languages I code in most are C++ and Java.
   
 ## 💻 Currently Working On
-  - C++ Game Portfolio
-  - New Portoflio Website
+  - Game Portfolio
+  - Assigned Master's Degree Modules
 
 ## 🌱 Currently Learning
   - C++
   - Games Programming Theory
-  - Graduate Employability Skills
+  - Blueprints
+  - Unreal Engine
     
 ## 🎉 Project Hub
 
